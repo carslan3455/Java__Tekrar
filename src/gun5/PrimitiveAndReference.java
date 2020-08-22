@@ -11,6 +11,6 @@ public class PrimitiveAndReference {
 
         Scanner scanner = new Scanner(System.in);
 
-
+        int b = 5;
     }
 }
