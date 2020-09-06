@@ -14,14 +14,14 @@ public class JavaScanner {
 //    boolean -> true false
 //    double  -> decimal numbers
 //    float   -> decimal numbers
-//    char    -> character
+//    char    -> character          // todo char Scannerdan alamiyoruz ancak nextLine ile string olarak alabiliriz
 
         /*
     Scanner:
         Scanner is a class for getting the input of the primitive types like int , boolean
             and also String..   It is the easiest way to read input in the java programing.
  */
-int a = 1;
+        int a = 1;
         System.out.println(a);
 
         Scanner girdi = new Scanner(System.in);
@@ -53,5 +53,39 @@ int a = 1;
         System.out.println("Bu kullanicinin Sehrini giriniz: ");
         String kullaniciSehri = girdi.nextLine();
         System.out.println("Kullanici Sehri: " + kullaniciSehri);
+
+        System.out.println("-------------------------------");
+        System.out.println("Biletiniz cift yonlu mu olsun?(True/False): ");
+        boolean biletCiftYonluMu = girdi.nextBoolean();
+        // = sag tarafindaki yeri yazinca Ctrl+C basip ardindan Ctrl+Alt+V tusu ile otomatik =  in sol taraftaki kisim olusuyor
+        System.out.println("Biletiniz cift yon mu?: " + biletCiftYonluMu);
+
+
+        System.out.println("-------------------------------");
+        System.out.println("Biletiniz ucreti icin max rakam (Double giriiz) : ");
+        double biletUcreti = girdi.nextDouble();
+        System.out.println("Biletiniz max rakam: " + biletUcreti);
+
+
+
+        System.out.println("-------------------------------");
+        System.out.println("Biletiniz ucreti icin max rakam (Float giriiz) : ");
+        float biletUcretiFloat = girdi.nextFloat();
+        System.out.println("Biletiniz max rakam: " + biletUcretiFloat);
+
+        System.out.println("-------------------------------");
+        System.out.println("Toplam miktar bilet icin : ");
+        short biletTplm  = girdi.nextShort();
+        System.out.println("Toplam miktar bilet icin : " + biletTplm);
+
+        System.out.println("Kac bilet almak istiyorsunuz?: ");
+        byte toplamBiletSayisi = girdi.nextByte();
+        System.out.println("Toplam bilet Sayiniz: "+ toplamBiletSayisi);
+
+       // todo Scanner da char kullanamiyoruz...
+
+
+
+
     }
 }
