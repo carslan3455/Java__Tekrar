@@ -1,6 +1,6 @@
 package gun06;
 
-public class JavaConcat {
+public class _02_JavaStringConcat {
     // bir string baska bir stringe eklenir
 
     public static void main(String[] args) {

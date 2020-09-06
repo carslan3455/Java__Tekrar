@@ -1,6 +1,6 @@
 package gun06;
 
-public class JavaCharAt {
+public class _01_JavaStringCharAt {
       /*
      charAt()
      Returns the character at the specified index (position)
