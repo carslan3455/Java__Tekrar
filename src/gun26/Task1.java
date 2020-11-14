@@ -52,7 +52,7 @@ public class Task1 {
         return resultMap;
     }
 
-    //todo 2 way, Collections.frequency()    list icinde gelen degerlerin kac kere oldugunu buluyor.
+    // todo 2 way, Collections.frequency()    list icinde gelen degerlerin kac kere oldugunu buluyor.
     // bunu bir Map a atarak 1  3 kere var gibi ikili kayit tutuyoruz
     public static HashMap<Integer, Integer> getFrequency(ArrayList<Integer> list) {
         HashMap<Integer, Integer> resultMap = new HashMap<>();
