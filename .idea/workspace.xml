@@ -20,12 +20,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84b335e-24ce-49b0-801a-7eb19ef40aee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/example/example1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/example/example1/JavaConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/example/example2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/example/example2/JavaThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/example/example3/JavaJUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/example/example3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/tasks/task1/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/tasks/task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/tasks/task1/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/tasks/task2/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/tasks/task2/TestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun30/tasks/task2/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/classModifiers/packageOne/DefaultModifierClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/classModifiers/packageOne/PublicModifierClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/classModifiers/packageOne/SamePackageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/classModifiers/packageTwo/OtherPackageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/defaultModifier/other/AmazonStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/defaultModifier/same/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/defaultModifier/same/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/privateModifier/examples/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/privateModifier/same/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/privateModifier/same/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/protectedModifier/other/AmazonStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/protectedModifier/other/MySubBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/protectedModifier/same/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/protectedModifier/same/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/publicModifier/other/EdgeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/publicModifier/same/ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/instanceModifiers/publicModifier/same/SearchEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task1/other/PostalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task1/same/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task1/same/BankUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task1/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task2/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task3/ExQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task3/q1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task3/q2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun31/tasks/task3/q3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/example/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/example/DBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/example/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/example/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/example/UITestAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/nonAccessModifier/MSOfficeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/nonAccessModifier/finalModifier/JavaFinalModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/nonAccessModifier/finalModifier/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/nonAccessModifier/finalModifier/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/nonAccessModifier/staticModifier/MyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/nonAccessModifier/staticModifier/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/nonAccessModifier/staticModifier/Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/tasks/task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/tasks/task1/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/tasks/task2/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/tasks/task2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun32/tasks/task2/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex1/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex1/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex2/BookCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex2/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex3/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaEnum/ex3/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/javaRecursion/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun33/mainStringArgument/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/ComparingDateAndTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/StringToLocalDateAndTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/creatingAndFormatting/JavaLocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/creatingAndFormatting/JavaLocalDateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/creatingAndFormatting/JavaLocalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/manipulating/LocalDateManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/manipulating/LocalDateTimeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/manipulating/LocalTimeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/periodAndDuration/JavaDuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gun35/periodAndDuration/JavaPeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTekrar/gun17/Task_.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,25 +127,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\arslan\IdeaProjects\Java Kurs\javaTekrar\src\gun17" />
-      <recent name="C:\Users\arslan\IdeaProjects\Java Kurs\javaTekrar\.idea" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="gun15" />
-      <recent name="gun08" />
-      <recent name="gun07" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\arslan\IdeaProjects\Java Kurs\javaTekrar\src" />
       <recent name="C:\Users\arslan\IdeaProjects\Java Kurs\javaTekrar\src\gun13" />
@@ -71,8 +148,17 @@
       <recent name="C:\Users\arslan\IdeaProjects\Java Kurs\javaTekrar\src\gun15" />
       <recent name="C:\Users\arslan\IdeaProjects\Java Kurs\javaTekrar\src\gun16" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gun15" />
+      <recent name="gun08" />
+      <recent name="gun07" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\arslan\IdeaProjects\Java Kurs\javaTekrar\src\gun17" />
+      <recent name="C:\Users\arslan\IdeaProjects\Java Kurs\javaTekrar\.idea" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task_">
+  <component name="RunManager" selected="Application.JavaLocalDateTime">
     <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gun16.Deneme" />
       <module name="JavaTekrar" />
@@ -99,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaWhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gun13.JavaWhileEx1" />
-      <module name="JavaTekrar" />
+    <configuration name="JavaLocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gun35.creatingAndFormatting.JavaLocalDateTime" />
+      <module name="javaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gun13.*" />
+          <option name="PATTERN" value="gun35.creatingAndFormatting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gun15.Task4" />
+    <configuration name="JavaWhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gun13.JavaWhileEx1" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gun15.*" />
+          <option name="PATTERN" value="gun13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaLocalDateTime" />
         <item itemvalue="Application.Task_" />
         <item itemvalue="Application.JavaWhileEx1" />
         <item itemvalue="Application.Deneme" />
         <item itemvalue="Application.Examp" />
-        <item itemvalue="Application.Task4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605396715227</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="gun29 tmm.">
+      <created>1605397327898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605397327898</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,17 +308,19 @@
     <MESSAGE value="gun06 IndexOf" />
     <MESSAGE value="IndexOf" />
     <MESSAGE value="gun29" />
-    <option name="LAST_COMMIT_MESSAGE" value="gun29" />
+    <MESSAGE value="gun29 tmm" />
+    <MESSAGE value="gun29 tmm." />
+    <option name="LAST_COMMIT_MESSAGE" value="gun29 tmm." />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1602356770840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602356770840" />
-    <state x="395" y="81" key="CommitChangelistDialog2" timestamp="1605396713877">
+    <state x="395" y="81" key="CommitChangelistDialog2" timestamp="1605397327108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="81" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605396713877" />
+    <state x="395" y="81" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605397327108" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1599421725608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -238,30 +333,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599423403535" />
-    <state width="1493" height="16" key="GridCell.Tab.0.bottom" timestamp="1605265219789">
+    <state width="1493" height="382" key="GridCell.Tab.0.bottom" timestamp="1607199614508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="16" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605265219789" />
-    <state width="1493" height="16" key="GridCell.Tab.0.center" timestamp="1605265219788">
+    <state width="1493" height="382" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607199614508" />
+    <state width="1493" height="382" key="GridCell.Tab.0.center" timestamp="1607199614507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="16" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605265219788" />
-    <state width="1493" height="16" key="GridCell.Tab.0.left" timestamp="1605265219788">
+    <state width="1493" height="382" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607199614507" />
+    <state width="1493" height="382" key="GridCell.Tab.0.left" timestamp="1607199614507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="16" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605265219788" />
-    <state width="1493" height="16" key="GridCell.Tab.0.right" timestamp="1605265219788">
+    <state width="1493" height="382" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607199614507" />
+    <state width="1493" height="382" key="GridCell.Tab.0.right" timestamp="1607199614508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="16" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605265219788" />
+    <state width="1493" height="382" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607199614508" />
     <state x="147" y="65" key="MergeDialog" timestamp="1605396789211">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="MergeDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605396789211" />
-    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1605396792564">
+    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1605397270116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605396792564" />
+    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605397270116" />
     <state x="544" y="133" key="RollbackChangesDialog" timestamp="1605396961232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -270,14 +365,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602356750108" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605396719010">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605397334511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605396719010" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599945655766">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605397334511" />
+    <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607199497253">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599945655766" />
+    <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607199497253" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607201552212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607201552212" />
     <state x="569" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599423534112">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
